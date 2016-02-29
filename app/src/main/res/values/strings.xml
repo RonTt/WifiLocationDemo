@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WiFi location demo</string>
+
+    <string name="network_title">Current network location</string>
+    <string name="gps_title">Current GPS location</string>
+
+    <string name="permission_location_available">Permission location access granted</string>
+    <string name="permissions_location_denied">Permission location access denied</string>
+    <string name="permission_location_rationale">Need access to your location</string>
+    <string name="ok">OK</string>
+</resources>
